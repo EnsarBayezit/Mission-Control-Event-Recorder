@@ -1,0 +1,8 @@
+﻿Mission Control - Windows Uygulamasi
+=====================================
+Bu paket, uygulamanin calismasi icin gereken tum kutuphaneleri (lib) ve MissionControl.exe dosyasini icerir.
+
+Nasil Calistirilir:
+1. MissionControl.exe dosyasina cift tiklayarak calistirabilirsiniz.
+2. Bilgisayarinizda Java (JRE) kurulu olmasi yeterlidir.
+   (Eger acilmazsa run.bat dosyasini da kullanabilirsiniz)
